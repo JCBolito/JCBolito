@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @JCBolito!
+# 👋 Hi, I’m Joshua!
 - 📚 I'm an undergraduate Computer Science student.
 - 🌱 I’m currently learning Full Stack Web Development using MERN Stack through [The Odin Project](https://www.theodinproject.com/).
 
