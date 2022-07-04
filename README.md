@@ -16,7 +16,7 @@
 - ## 💻 Familiar Programming Languages
     Other Programming Languages I'm familiar with as part of our college curriculum. I never fully committed to these languages, but I'm still pretty familiar with its fundamentals.
 
-    <img alt="Basic C Programming" title="Basic C Programming" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="50"> <img alt="Basic C++" title="Basic C++" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="55"> <img alt="Basic Java" title="Basic Java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50">
+    <img alt="Basic C Programming" title="Basic C Programming" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="50"> <img alt="Basic C++ Programming" title="Basic C++ Programming" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="55"> <img alt="Basic Java Programming" title="Basic Java Programming" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50">
     
 - ## 🎨 Others
     Other tools I am familiar with which I use for documentation and photo or video editing.
