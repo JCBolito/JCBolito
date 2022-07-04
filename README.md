@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Joshua!
 - 📚 I'm an undergraduate Computer Science student.
 - 🌱 I’m currently learning Full Stack Web Development using MERN Stack through [The Odin Project](https://www.theodinproject.com/).
-
+___
 # 🧾 Skills and Technologies
 - ## 🕸 Web Development
     Scripting, markup, and programming languages I am using in my current web development learning progress.
@@ -22,6 +22,6 @@
     Other tools I am familiar with which I use for documentation and photo or video editing.
 
     <img alt="Microsoft Word" title="Microsoft Word" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/1200px-Microsoft_Word_2013-2019_logo.svg.png" width="50"> <img alt="Canva" title="Canva" src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="50"> <img alt="Adobe Photoshop" title="Adobe Photoshop" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="50"> <img alt="Basic DaVinci Resolve" title="Basic DaVinci Resolve" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png" width="50"> 
-
+___
 # 📞 Connect with me!
-[<img alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="80">](https://www.linkedin.com/in/joshua-caleb-bolito-7a7401214) [<img alt="GitHub" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="80">](https://github.com/JCBolito)
+[<img alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="50">](https://www.linkedin.com/in/joshua-caleb-bolito-7a7401214) [<img alt="GitHub" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="50">](https://github.com/JCBolito)
