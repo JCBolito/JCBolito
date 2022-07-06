@@ -6,7 +6,7 @@ ___
 - ## 🕸 Web Development
     Scripting, markup, and programming languages and tool/s I am using in my current web development learning progress.
     
-    <img alt="HTML 5" title="HTML 5" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50"> <img alt="CSS 3" title="CSS 3" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50"> <img alt="Basic JavaScript" title="Basic JavaScript Programming" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50">  <img alt="Visual Studio Code" title="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50">
+    [<img alt="HTML5" title="HTML5" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50">](https://en.wikipedia.org/wiki/HTML5) [<img alt="CSS3" title="CSS3" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50">](https://en.wikipedia.org/wiki/CSS) [<img alt="Basic JavaScript" title="Basic JavaScript Programming" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50">](https://en.wikipedia.org/wiki/JavaScript)  [<img alt="Visual Studio Code" title="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50">](https://en.wikipedia.org/wiki/Visual_Studio_Code)
 
 - ## ⚙ Version Control
     Version control tools I am currently using in order to conveniently manage my works.
