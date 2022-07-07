@@ -11,12 +11,12 @@ ___
 - ## ⚙ Version Control
     Version control tools I am currently using in order to conveniently manage my works.
     
-    <img alt="Git" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50"> <img alt="GitHub" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="50"> 
+    [<img alt="Git" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50">](https://en.wikipedia.org/wiki/Git) [<img alt="GitHub" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="50">](https://en.wikipedia.org/wiki/GitHub) 
 
 - ## 💻 Familiar Programming Languages
     Other Programming Languages I'm familiar with as part of our college curriculum. I never fully committed to these languages, but I'm still pretty familiar with its fundamentals.
 
-    <img alt="Basic C Programming" title="Basic C Programming" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="50"> <img alt="Basic C++ Programming" title="Basic C++ Programming" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="55"> <img alt="Basic Java Programming" title="Basic Java Programming" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50">
+    [<img alt="Basic C Programming" title="Basic C Programming" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="50">](https://en.wikipedia.org/wiki/C_(programming_language)) [<img alt="Basic C++ Programming" title="Basic C++ Programming" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="55">](https://en.wikipedia.org/wiki/C%2B%2B) [<img alt="Basic Java Programming" title="Basic Java Programming" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50">](https://en.wikipedia.org/wiki/Java_(programming_language))
     
 - ## 🎨 Others
     Other tools I am familiar with which I use for documentation and photo or video editing.
